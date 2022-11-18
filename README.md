@@ -1,2 +1,2 @@
-# test2
+# react-firegram-app
 Created with CodeSandbox
